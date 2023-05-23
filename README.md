@@ -6,7 +6,7 @@
 
 A calculadora é o quinto projeto da série de desafios #boraCodar da Rocketseat!
 
-🔗 [Clique aqui para acessar](https://anaaab.github.io/calculator/)
+🔗 [Clique aqui para acessar](https://anaaaab.github.io/calculator/)
 
 ## ⚒️ Tecnologias Utilizadas
 
