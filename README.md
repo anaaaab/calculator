@@ -1,16 +1,22 @@
-# boraCodar desafio 5: Criar uma calculadora.
+<h1 align="center"><strong> #boraCodar a Calculator 🔢 </strong></h1>
+  
+<h2><strong>Proposal</strong></h2>
+<p align="justify"> The objective was to program a calculator that performs basic mathematical operations but works in the best possible way. </p>
 
-![preview](.github/preview.jpg)
+#
 
-## 💻  Project
+#### <h3 align="center"><strong> That project was developed with </strong></h3>
 
-The calculator is the fifth project in the #boraCodar challenge series by Rocketseat!
+#### <h3 align="center">HTML | CSS | JavaScript | Figma | Git | GitHub </h3>
 
-🔗 [ Click here to access](https://anaaaab.github.io/calculator/)
+#
 
-## ⚒️ Technologies Used
+- <p><a href="https://anaaaab.github.io/calculator/" target="_blank"> Access Habits App online </a> <p>
 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
+![preview](.github/preview.png)
+#
+  
+<p align="center"><strong>Made with 🤍 by Ana Paula Bertuol </strong><p>
+  
+
+#### <p align="center"><a href="https://www.linkedin.com/in/ana-paula-bertuol/" target="_blank"> Access my profile on LinkedIn here </a> <p>
