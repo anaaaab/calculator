@@ -11,7 +11,7 @@
 
 #
 
-- [Access Habits App online](https://anaaaab.github.io/calculator/)
+- [Access App online](https://anaaaab.github.io/calculator/)
 
 ![preview](.github/preview.png)
 #
