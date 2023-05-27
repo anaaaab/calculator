@@ -11,7 +11,7 @@
 
 #
 
-- <p><a href="https://anaaaab.github.io/calculator/" target="_blank"> Access Habits App online </a> <p>
+- [Access Habits App online](https://anaaaab.github.io/calculator/)
 
 ![preview](.github/preview.png)
 #
@@ -19,4 +19,4 @@
 <p align="center"><strong>Made with 🤍 by Ana Paula Bertuol </strong><p>
   
 
-#### <p align="center"><a href="https://www.linkedin.com/in/ana-paula-bertuol/" target="_blank"> Access my profile on LinkedIn here </a> <p>
+#### <p align="center">[Access my profile on LinkedIn here](https://www.linkedin.com/in/ana-paula-bertuol/) <p>
