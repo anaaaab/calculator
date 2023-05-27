@@ -2,18 +2,15 @@
 
 ![preview](.github/preview.jpg)
 
-## 💻 Projeto
+## 💻  Project
 
-A calculadora é o quinto projeto da série de desafios #boraCodar da Rocketseat!
+The calculator is the fifth project in the #boraCodar challenge series by Rocketseat!
 
-🔗 [Clique aqui para acessar](https://anaaaab.github.io/calculator/)
+🔗 [ Click here to access](https://anaaaab.github.io/calculator/)
 
-## ⚒️ Tecnologias Utilizadas
+## ⚒️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - Git e GitHub
-
-
-
