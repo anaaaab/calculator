@@ -5,13 +5,13 @@
 
 #
 
-#### <h3 align="center"><strong> That project was developed with </strong></h3>
+#### <h3 align="center"><strong> This project was developed with </strong></h3>
 
 #### <h3 align="center">HTML | CSS | JavaScript | Figma | Git | GitHub </h3>
 
 #
 
-- <p><a href="https://anaaaab.github.io/calculator/" target="_blank"> Access Habits App online </a> <p>
+- <p><a href="https://anaaaab.github.io/calculator/" target="_blank"> Access calculator online </a> <p>
 
 ![preview](.github/preview.png)
 #
